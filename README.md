@@ -1,1 +1,2 @@
 # coin
+python appp.py
